@@ -58,7 +58,7 @@ section {
   padding-bottom: 4rem;
 }
 
-.header {
+.logo {
   display: flex;
   justify-content: left;
   align-items: center;
@@ -66,7 +66,7 @@ section {
   padding: 1rem;
 }
 
-.header__text {
+.logo__text {
   font-weight: 700;
   font-size: 2.4rem;
   padding: 0 1rem;
@@ -306,6 +306,7 @@ section {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  flex-direction: row;
 }
 
 .footer__date {
@@ -329,6 +330,10 @@ section {
   .entry__img {
     height: 100%;
     width: 100%;
+  }
+
+  .footer {
+    flex-direction: column;
   }
 
 }
