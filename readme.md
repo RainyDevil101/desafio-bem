@@ -33,7 +33,3 @@ El proyecto está estructurado en diferentes secciones:
 ## Créditos
 
 Este proyecto fue desarrollado como parte del programa de estudios de Desafío Latam.
-
-## Autor
-
-[Nombre del Autor]
